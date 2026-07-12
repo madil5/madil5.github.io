@@ -1,0 +1,26 @@
+UPLOAD THESE ITEMS TO THE ROOT OF YOUR GitHub REPOSITORY:
+
+index.html
+research.html
+projects.html
+publications.html
+teaching.html
+service.html
+news.html
+cv.html
+contact.html
+.nojekyll
+README.md
+assets folder
+images folder
+
+GitHub steps:
+1. Open https://github.com/madil5/madil5.github.io
+2. Click Add file > Upload files
+3. Drag all the items listed above into the upload area.
+4. Enter commit message: Upload complete academic website
+5. Click Commit changes.
+6. Open Settings > Pages.
+7. Under Source choose Deploy from a branch.
+8. Choose main and /(root), then Save.
+9. Open https://madil5.github.io after a few minutes.
